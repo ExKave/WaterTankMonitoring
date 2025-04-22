@@ -33,7 +33,7 @@ A smart water tank monitoring system using Arduino and a custom mobile app built
 
 ### 💻 Arduino Code
 
-You can find the full Arduino code in [arduino_code.ino](arduino_code.ino) in this repository. It includes:
+You can find the full Arduino code in [arduino_code.ino](WaterTankMonitoring/WaterTankMonitoring.ino) in this repository. It includes:
 
 - Water level calculation using ultrasonic sensor
 - Reading and mapping pH and TDS sensor values
