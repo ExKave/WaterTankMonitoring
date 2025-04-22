@@ -22,13 +22,13 @@ A smart water tank monitoring system using Arduino and a custom mobile app built
 
 | Arduino Pin | Connected To           |
 |-------------|------------------------|
-| D2          | HC-SR04 Trigger        |
-| D3          | HC-SR04 Echo           |
+| D3          | HC-SR04 Trigger        |
+| D2          | HC-SR04 Echo           |
 | A0          | pH Sensor Output       |
 | A1          | TDS Sensor Output      |
-| D10 (TX)    | HC-05 RX               |
-| D11 (RX)    | HC-05 TX               |
-| D8          | Relay IN               |
+| D5 (TX)    | HC-05 RX               |
+| D4 (RX)    | HC-05 TX               |
+| D7          | Relay IN               |
 | I2C (A4/A5) | LCD I2C SDA/SCL        |
 
 ### 💻 Arduino Code
@@ -91,7 +91,3 @@ You can download the app here: [Download Aquapylot APK](Aquapylot.apk)
 - **Beerela Arun Kumar** – Collaborator
 
 ---
-
-## 📃 License
-
-MIT License
