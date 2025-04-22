@@ -91,3 +91,16 @@ You can download the app here: [Download Aquapylot APK](AquaPylot.apk)
 - **Beerela Arun Kumar** – Collaborator
 
 ---
+
+## 🙏 Acknowledgements
+
+We would like to thank our course instructor, Prof. Arup lal Chakroborty, for designing this curriculum for theoretical learning along with hands on experience through this project
+and other lab tasks. Our TA Shouharda Ghosh for guiding us
+throughout the learning process, simplifying the concepts in really easier way, providing right resources to learn from. Our thanks also extend to the
+lab staff for making available the necessary resources at right
+time. This project wouldn’t have been possible without their
+help
+Their insights and motivation were instrumental in helping us bring **Aquapylot** to life.
+
+
+---
