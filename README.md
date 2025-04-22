@@ -58,15 +58,14 @@ You can download the app here: [Download Aquapylot APK](AquaPylot.apk)
 ---
 ## 📷 Project Images
 
-Here is the device we made in prototyping stage:
-![project_description](https://github.com/user-attachments/assets/11c937d8-ae41-4d5b-9bf5-bf4b95a2e234)
-And after assembling:![waterTankMonitoring_system_assembled](https://github.com/user-attachments/assets/15358ac2-8b33-4153-8576-d0da69b2dd83)
+<h3>🔌Unassemble project with different parts</h3>
+<img src="Images/project_description.jpg" width="400"/>
 
+<h3>🔧 Final Assembled project</h3>
+<img src="Images/assembled_project.jpg" width="400"/>
 
-### 📸 App Screenshots
-
-#### 🎨 UI Designer View
-![AquaPylot_ui](https://github.com/user-attachments/assets/8436c161-bc68-46e0-80e3-ee45df2096b9)
+<h3>AquaPylot app interface:</h3>
+<img src="Images/aquapylot_ui2.jpg" width="400"/>
 
 
 ---
