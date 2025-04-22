@@ -66,18 +66,8 @@ And after assembling:![waterTankMonitoring_system_assembled](https://github.com/
 ### 📸 App Screenshots
 
 #### 🎨 UI Designer View
-![Designer View](screenshots/designer_view.png)
+![AquaPylot_ui](https://github.com/user-attachments/assets/8436c161-bc68-46e0-80e3-ee45df2096b9)
 
-#### 📡 Bluetooth Connection Logic
-![Bluetooth Blocks](screenshots/bluetooth_blocks.png)
-
-#### 🤖 Auto Mode Control Logic
-![Auto Mode Blocks](screenshots/auto_mode_blocks.png)
-
-#### 📈 Sensor Data Display and Parsing
-![Sensor Blocks](screenshots/sensor_blocks.png)
-
-> All screenshots are available in the `/screenshots` folder of this repo.
 
 ---
 
