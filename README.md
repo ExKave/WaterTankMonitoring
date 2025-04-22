@@ -37,9 +37,9 @@ You can find the full Arduino code in [arduino_code.ino](WaterTankMonitoring/Wat
 
 - Water level calculation using ultrasonic sensor
 - Reading and mapping pH and TDS sensor values
-- Sending sensor data via Bluetooth
-- EEPROM flag for Auto mode
-- LCD output and relay control logic
+- Sending sensor data via Bluetooth to mobile app (AquaPylot)
+- LCD output
+- Relay control logic for auto filling of water. Also auto off.
 
 ---
 
@@ -53,7 +53,7 @@ Aquapylot is a mobile app that connects to the Arduino system via Bluetooth and 
 
 ### 📲 Download APK
 
-You can download the app here: [Download Aquapylot APK](Aquapylot.apk)
+You can download the app here: [Download Aquapylot APK](AquaPylot.apk)
 
 ---
 
